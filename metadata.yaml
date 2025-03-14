@@ -1,0 +1,35 @@
+_repo: Some-great-American-books_75416
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sharp, Dallas Lore
+    birthdate: 1870
+    deathdate: 1929
+    gutenberg_agent_id: '5640'
+    url: http://www.gutenberg.org/2009/agents/5640
+    wikipedia: https://en.wikipedia.org/wiki/Dallas_Lore_Sharp
+description: ''
+gutenberg_issued: '2025-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75416'
+  lccn: '25026825'
+language: en
+pgterms:marc904: https://archive.org/details/somegreatamerica0000unse/page/n3/mode/2up
+pgterms:marc905: 20210905220417sharp
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Bob Taylor, Tim Lindell and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: '  $aChicago :$bAmerican Library Association, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American literature -- History and criticism'
+- !lcsh 'Books and reading -- United States'
+- !lcc 'PS'
+- GITenberg
+title: Some great American books
+url: http://www.gutenberg.org/ebooks/75416
